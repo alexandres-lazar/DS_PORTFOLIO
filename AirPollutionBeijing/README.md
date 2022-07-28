@@ -1,6 +1,6 @@
 # Pollution level forecasting with multivariate time series 
 
-* ___[Skills Demonstrated]___: _Forcasting, Deep Learning, Sequential Data, Data Processing, Python, Pandas, PyTorch, scikit-learn_
+* ___[Skills Demonstrated]___: _Forecasting, Deep Learning, Sequential Data, Data Processing, Python, Pandas, PyTorch, scikit-learn_
 
 ---
 
